@@ -1,0 +1,4 @@
+bin/          → binários compilados, gerado automaticamente
+obj/          → arquivos intermediários de build
+.vs/          → configurações locais do Visual Studio
+appsettings.Development.json  → se tiver senhas ou strings de conexão
